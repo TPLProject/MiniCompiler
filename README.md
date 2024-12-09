@@ -20,7 +20,7 @@ Java
 ![GUI](https://github.com/user-attachments/assets/3756263e-d914-43ab-8625-0349dbdb5eb9)
 
 # Limitations
---This is a simple prototype designed for educational purposes. It does not support all Java syntax or advanced features like method calls, loops, or complex data structures.
---The syntax analysis only checks for the presence of semicolons and does not cover more complex syntax rules.
---The semantic analyzer only checks for variable declarations and type consistency for simple data types.
+This is a simple prototype designed for educational purposes. It does not support all Java syntax or advanced features like method calls, loops, or complex data structures.
+The syntax analysis only checks for the presence of semicolons and does not cover more complex syntax rules.
+The semantic analyzer only checks for variable declarations and type consistency for simple data types.
 
