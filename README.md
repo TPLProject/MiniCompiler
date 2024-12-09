@@ -23,6 +23,8 @@ Java
 
 # Limitations
 This is a simple prototype designed for educational purposes. It does not support all Java syntax or advanced features like method calls, loops, or complex data structures.
+
 The syntax analysis only checks for the presence of semicolons and does not cover more complex syntax rules.
+
 The semantic analyzer only checks for variable declarations and type consistency for simple data types.
 
