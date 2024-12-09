@@ -14,7 +14,7 @@ public class SemanticAnalysis {
         String[] lines = code.split("\\n");
         symbolTable.clear();
         boolean semanticValid = true;
-        StringBuilder result = new StringBuilder("Semantic Analysis:\n");
+        StringBuilder result = new StringBuilder("Semantic Analysis: ");
 
         for (String line : lines) {
             line = line.trim();

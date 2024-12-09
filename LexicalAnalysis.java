@@ -17,7 +17,7 @@ public class LexicalAnalysis {
 
         // Tokenize the code
         String[] tokens = code.split("(?<=[=;])|(?=[=;])|\\s+");
-        StringBuilder result = new StringBuilder("Lexical Analysis: Tokens:\n");
+        StringBuilder result = new StringBuilder("Tokens:\n");
         boolean allTokensValid = true;
 
         for (String token : tokens) {
