@@ -9,7 +9,7 @@ Mini Compiler is a simple, educational Java-based compiler that performs lexical
 **Semantic Analysis**: Checks for basic semantic correctness like variable declarations and type consistency
 
 # Language Used
-Java
+## Java
 
 # How It Works
 **1. Lexical Analysis**: This step uses regular expressions to tokenize the input. It identifies keywords, variables, numbers, strings, and symbols.
