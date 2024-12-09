@@ -3,7 +3,9 @@ Mini Compiler is a simple, educational Java-based compiler that performs lexical
 
 # Feautures
 **Lexical Analysis**: Breaks down the source code into tokens and validates if the tokens match expected patterns.
+
 **Syntax Analysis**: Ensures that the code structure adheres to basic Java syntax rules, such as the presence of semicolons at the end of statements.
+
 **Semantic Analysis**: Checks for basic semantic correctness like variable declarations and type consistency
 
 ## Language Used
