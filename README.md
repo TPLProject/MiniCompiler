@@ -1,4 +1,4 @@
-# Mini Compiler
+# Mini Compiler 💻
 Mini Compiler is a simple, educational Java-based compiler that performs lexical, syntax, and semantic analysis on a given code input. The tool is designed to help students and learners understand the basic processes of compiling code and how compilers parse and validate programming languages.
 
 # Feautures
